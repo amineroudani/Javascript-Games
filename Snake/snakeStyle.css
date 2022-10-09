@@ -1,0 +1,56 @@
+.container {
+  margin-top: 50px;
+  display: inline;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: bold;
+  
+}
+
+body {
+  margin: 10xp;
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.buttons {
+  width: 400px;
+  height: 80px;
+  margin-top: 50px;
+
+}
+
+
+.P1, .P2F{
+  display: inline-block;
+
+  border: 2px solid black;
+  width: 100px;
+  height: 50px;
+  margin: 10px;
+  text-align: center;
+  line-height: 50px;
+  background-color: black;
+  color: white;
+  position: relative;
+  top: 0;
+  text-decoration: none;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+
+h2 {
+  color: greenyellow;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+s
+h1, h3 {
+  font-family:'Courier New', Courier, monospace;
+  font-weight: bold;
+}
